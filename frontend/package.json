@@ -15,7 +15,7 @@
     "apollo-client": "^2.5.1",
     "apollo-link": "^1.2.11",
     "apollo-link-http": "^1.5.14",
-    "axios": "^0.18.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.0.0-beta.2",
     "bootstrap-vue": "^2.0.0",
     "graphql": "^14.2.1",
